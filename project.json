@@ -1,5 +1,5 @@
 {
-  "name": "CursoRPA_Platzi",
+  "name": "CursoRPA_Platzi_up",
   "description": "Este proyecto contiene todas las clases vistas del curso de RPA.",
   "main": "Main.xaml",
   "dependencies": {
@@ -40,5 +40,7 @@
     "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
-  "isTemplate": false
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
 }
